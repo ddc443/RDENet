@@ -1,2 +1,2 @@
 # RDENet
-Code for "Direction-Aware Attention for Detail-Preserving Terahertz Image Super-Resolution (RDENet).
+Network details will coming soon.
